@@ -10,7 +10,8 @@ https://mariadb.com/docs/connectors/mariadb-connector-c
 Install mariadb package
 py -m pip install mariadb 
 
-
+Other packages to install
+py -m pip install dataframe_image
 
 
 
